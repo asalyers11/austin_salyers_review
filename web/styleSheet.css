@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(209, 202, 202);
+    font-family: sans-serif;
+    font-size: 14px;
+    color: rgb(247, 148, 56);
+}
+
+.styled-select {
+    color: black;
+    margin-bottom: 15px;
+
+}
+
+table {
+    font-size: 14px;
+    color: black;
+}
+
+th {
+    text-decoration: underline;
+    text-align: center;
+}
+
+td {
+    text-align: right;
+}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 13px;
+    font-family: fantasy;
+    background-color: white;
+}
